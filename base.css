@@ -274,8 +274,8 @@ html {width: 100%;} /* force html to be viewport width */
 body {width: 150%; } /* overflow the body */
 
 div {
-    width: 50%;
+    width: 70%;
     margin-left: 50px;
     font-size: 16px;
-    font-size: 7.75vw;
+    font-size: 7.5vw;
 }
